@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siskanadya
 - 👀 I’m interested in music
-- 🌱 I’m currently learning to write html code
+- 🌱 I’m currently learning to be web developer
 
 
 <!---
